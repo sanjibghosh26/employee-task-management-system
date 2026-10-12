@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Task Management System
 
 A modern Employee Task Management System built with React.js.
@@ -138,3 +139,7 @@ The core Employee Task Management System has been implemented with admin and emp
 Author
 
 Sanjib Ghosh
+=======
+# employee-task-management-system
+An Employee Task Management System built with React.js and Context API.
+>>>>>>> 8211c2c78c14cadea40aadde3be13d04bf75d311
