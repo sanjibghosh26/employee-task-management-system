@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Employee Task Management System
 
 A modern Employee Task Management System built with React.js.
@@ -54,7 +54,7 @@ Completed       Failed
 
 ## Project Structure
 
-```text
+
 EMS/
 │
 ├── node_modules/
@@ -103,6 +103,7 @@ EMS/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
+```
 
 ## Tech Stack
 React.js
@@ -142,4 +143,4 @@ Sanjib Ghosh
 =======
 # employee-task-management-system
 An Employee Task Management System built with React.js and Context API.
->>>>>>> 8211c2c78c14cadea40aadde3be13d04bf75d311
+
