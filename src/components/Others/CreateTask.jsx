@@ -4,7 +4,7 @@ import { Plus } from "lucide-react";
 
 import { AuthContext } from "../../context/Authprovider";
 
-import CustomAlert from "../Common/CustomAlert";
+import CustomAlert from "../common/CustomAlert";
 
 const CreateTask = () => {
   const { userData: authdata, setUserData } =
